@@ -6,8 +6,13 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Anaconda",
+		"Codecs33",
+		"ConvertToUTF8",
 		"Emmet",
+		"Gist",
 		"Git",
+		"GitGutter",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Sass",
