@@ -1,0 +1,11 @@
+{
+  "keys": [
+    "alt+m"
+  ],
+  "command": "markdown_preview",
+  "args": {
+    "target": "browser",
+    "parser": "github"
+  },
+  "enabled_parsers": ["markdown"] //"github"
+}

@@ -1,0 +1,56 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			// //application 1
+			// {
+			// 	"caption": "Cmder",
+			// 	"id": "side-bar-files-open-with-photoshop",
+
+			// 	"command": "side_bar_files_open_with",
+			// 	"args": {
+			// 						"paths": [],
+			// 						"application": "Adobe Photoshop CS5.app", // OSX
+			// 						"extensions":"psd|png|jpg|jpeg",  //any file with these extensions
+			// 						"args":[]
+			// 					},
+			// 	"open_automatically" : false // will close the view/tab and launch the application
+			// },
+
+			// //separator
+			// {"caption":"-"},
+
+			//application 2
+			{
+				"caption": "Cmder",
+				"id": "side-bar-files-open-with-seamonkey",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "D:\\software\\cmder\\cmder.exe", // WINNT
+									"extensions":"", //open all even folders
+									"args":[]
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			//application n
+			{
+				"caption": "Explorer",
+				"id": "side-bar-files-open-with-Explorer",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "C:\\Windows\\explorer.exe",
+									"extensions":"", //any file with extension
+									"args":[]
+						},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			{"caption":"-"}
+		]
+	}
+]

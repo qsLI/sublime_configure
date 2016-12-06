@@ -1,21 +1,46 @@
 {
 	"bootstrapped": true,
+	"http_proxy": "http://127.0.0.1:1080",
 	"in_process_packages":
 	[
+		"Codecs33"
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"AdvancedNewFile",
+		"Agila Theme",
 		"Anaconda",
+		"AutoPEP8",
+		"BracketHighlighter",
 		"Codecs33",
 		"ConvertToUTF8",
+		"DocBlockr",
+		"DocBlockr_Python",
 		"Emmet",
+		"Evernote",
 		"Gist",
 		"Git",
 		"GitGutter",
+		"Hayaku - tools for writing CSS faster",
+		"HTML5",
+		"HTMLBeautify",
+		"IMESupport",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownHighlighting",
 		"Package Control",
+		"PackageResourceViewer",
+		"Panda Syntax Sublime",
+		"Pretty JSON",
+		"Protobuf Syntax Hightlighting",
+		"PyDOC",
 		"RailsCasts Colour Scheme",
 		"Sass",
+		"SideBarEnhancements",
 		"SublimeERB",
 		"SyncedSideBar"
 	]

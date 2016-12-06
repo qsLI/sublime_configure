@@ -1,4 +1,5 @@
 {
-    "pep8" : false,
-    "complete_parameters":true,
+
+	// Set this to false to turn pep8 checking off completely.
+	"pep8": false
 }
